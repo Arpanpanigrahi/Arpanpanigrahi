@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpan Panigrahi</h1>
 <h3 align="center">I am a student at Silicon Institute of Technology, Bhubaneswar(SIT,BBSR), a Tech enthusiast having a practicing background in C,Java,Python Programming and Problrm-Solving. Being a part of various events and team projects in the previous years, I have good team ethics and industrial skills. 
+
 I am very curious fellow when it comes to explore and try out new skills. Developing new things every time is fun so I try to learn something new every day. Looking forward to more opportunities in these fields. I am also confident and committed to explore different technology and domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="arpanpanigrahi" /> </p>
