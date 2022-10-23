@@ -19,7 +19,7 @@ I am very curious fellow when it comes to explore and try out new skills. Develo
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
