@@ -9,11 +9,15 @@ I am very curious fellow when it comes to explore and try out new skills. Develo
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpanpanigrahi" alt="arpanpanigrahi" /></a> </p>
 
+- 🔭 I’m currently working on **OpenCv** projects
+
 - 🌱 I’m currently learning **Python and Front-end development.**
 
 - 📫 How to reach me **arpanpanigrahi1@gmail.com**
 
 - ⚡ Fun fact **I think I am curious.**
+
+<img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
