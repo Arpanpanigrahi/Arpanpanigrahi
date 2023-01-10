@@ -38,5 +38,5 @@ I am very curious fellow when it comes to explore and try out new skills. Develo
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanpanigrahi&" alt="arpanpanigrahi" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/arpanpanigrahi1?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/arpanpanigrahi1?ext=heatmap)
 
