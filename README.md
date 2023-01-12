@@ -13,7 +13,9 @@ I am very curious fellow when it comes to explore and try out new skills. Develo
 
 - 🌱 I’m currently learning **Python and Front-end development.**
 
-- 📫 How to reach me **arpanpanigrahi1@gmail.com**
+- 📫 How to reach me: Check social links below.
+
+- 💬 Ask me about Web Development or any tech-related stuff.
 
 - ⚡ Fun fact **I think I am curious.**
 
