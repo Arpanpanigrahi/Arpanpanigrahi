@@ -36,3 +36,7 @@ I am very curious fellow when it comes to explore and try out new skills. Develo
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/arpanpanigrahi1?ext=heatmap)
 
+<p>Thank you for taking the time to read my introduction. I look forward to connecting with the GitHub community and making valuable contributions to the world of software development.
+
+Happy coding! 😊</p>
+
