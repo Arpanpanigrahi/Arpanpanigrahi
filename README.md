@@ -7,9 +7,9 @@
 
 - ✨ Creating bugs since 2018.
 - 🔭  I'm a 2022 Graduate and my branch is Computer Science.
-- 📚 I’m currently learning **Java Full Stack (Java, SQL, Web Tech.)**
+- 📚 I’m currently learning **Java Full Stack (Java, SQL, Web Tech.)**.
 - 👨‍💻 All of my projects are available at [https://github.com/Arpanpanigrahi](https://github.com/Arpanpanigrahi)
-- 📝 I regularly practise coding at [https://www.hackerrank.com/arpanpanigrahi1](https://www.hackerrank.com/arpanpanigrahi1)
+- 📝 I regularly practise coding at **HackerRank, LeetCode and GeeksForGeeks**.
 - 💬 Ask me about **Web Development or any tech-related stuff.**
 - 📫 How to reach me **Check social links below.**
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
