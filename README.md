@@ -5,6 +5,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arpanpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="Arpanpanigrahi" /> </p>
+
 - ✨ Creating bugs since 2018.
 - 🔭 I'm a **2022 Graduate from Silicon Institute of Technology, Bhubaneswar** and my branch is **Computer Science and Engineering**.
 - 📚 I’m currently learning **Java Full Stack (Java, SQL, Web Tech.)**.
