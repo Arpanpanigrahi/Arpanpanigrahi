@@ -14,7 +14,7 @@
 - 📝 I regularly practise coding at **HackerRank, LeetCode and GeeksForGeeks**.
 - 💬 Ask me about **Web Development or any tech-related stuff.**
 - 📫 How to reach me **Check social links below.**
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://arpanpanigrahi.github.io/](https://arpanpanigrahi.github.io/)
 - ⚡ Fun fact **I think I am curious.**
 
 <h3 align="left">Connect with me:</h3>
