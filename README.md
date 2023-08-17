@@ -5,7 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Java Full Stack (Java, SQL, Web Tech.)**
+- ✨ Creating bugs since 2018.
+- 🔭  I'm a 2022 Graduate and my branch is Computer Science.
+- 📚 I’m currently learning **Java Full Stack (Java, SQL, Web Tech.)**
 - 👨‍💻 All of my projects are available at [https://github.com/Arpanpanigrahi](https://github.com/Arpanpanigrahi)
 - 📝 I regularly practise coding at [https://www.hackerrank.com/arpanpanigrahi1](https://www.hackerrank.com/arpanpanigrahi1)
 - 💬 Ask me about **Web Development or any tech-related stuff.**
