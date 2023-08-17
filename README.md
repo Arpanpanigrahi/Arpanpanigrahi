@@ -1,6 +1,6 @@
 [![MasterHead](b6d9e4bb3642d036a207f7a83b2f9128.jpg)](https://Arpanpanigrahi.io)
 
-<h1 align="center">Hi 👋, I'm Arpan Panigrahi</h1>
+<h1 align="center">Hi 👋, I'm Arpan Panigrahi. What's up?</h1>
 <h3 align="center">I am a passionate and motivated individual eager to kick-start my career as a software developer. I am excited to be part of the GitHub community and showcase my projects and contributions. In this introduction, I would like to provide you with an overview of my skills, interests, and projects. I recently completed my Bachelor's degree in CSE from Silicon Institute of Technology, Bhubaneswar. Throughout my academic journey, I have gained a strong foundation in C, Java, SQL and Problem-Solving. I have actively participated in various coding competitions and hackathons, honing my problem-solving abilities and collaborative skills. I am very curious fellow when it comes to explore and try out new skills. Developing new things every time is fun so I try to learn something new every day. Looking forward to more opportunities in these fields. I am also confident and committed to explore different technology and domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arpanpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="Arpanpanigrahi" /> </p>
